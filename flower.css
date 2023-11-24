@@ -1,0 +1,23 @@
+body{font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;}
+    *{margin: 0px;
+    padding: 0px;}
+    .banner{display: flex;
+        background: rgba(229, 84, 115, 0.10);
+        height: 340px;
+    justify-content: space-around;
+align-items: center;
+padding: 80px;}
+.banner-img{width: 435px;
+    height: 500px;
+padding: 10px;}
+    .banner-desc{margin-bottom: 20px;}
+    .banner-btn{margin-top: 20px;
+        color: #FFF;
+        font-family: Lato;
+        font-size: 16px;
+       padding: 10px;
+        font-weight: 700;
+      border: none;
+        border-radius: 8px;
+        background: #E55473;}
